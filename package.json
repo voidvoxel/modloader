@@ -1,7 +1,7 @@
 {
   "name": "modloader",
   "description": "A modloader allowing developers and users to mod JavaScript packages",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "src/index.mjs",
   "type": "module",
   "scripts": {
