@@ -2,7 +2,7 @@
   "name": "modloader",
   "description": "A modloader allowing developers and users to mod JavaScript packages",
   "version": "1.0.1",
-  "main": "index.js",
+  "main": "src/index.mjs",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
