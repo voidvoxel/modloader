@@ -1,0 +1,32 @@
+{
+  "name": "modloader",
+  "description": "A modloader allowing developers and users to mod JavaScript packages",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/plugin-transform-modules-commonjs": "^7.24.1",
+    "@voidvoxel/package-json": "^1.0.0",
+    "@voidvoxel/parse-function": "^0.3.2",
+    "javascript-injector": "^0.6.0",
+    "live-plugin-manager": "^0.20.0",
+    "uuid": "^9.0.1"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "ecmascript",
+    "es",
+    "es6",
+    "mod",
+    "loader",
+    "modloader",
+    "mod-loader"
+  ],
+  "author": "Ashlynne Juniper",
+  "license": "MPL-2.0"
+}
