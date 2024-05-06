@@ -12,7 +12,8 @@
     "@babel/plugin-transform-modules-commonjs": "^7.24.1",
     "@voidvoxel/package-json": "^1.0.0",
     "@voidvoxel/parse-function": "^0.4.1",
-    "javascript-injector": "^0.7.0",
+    "glob": "^10.3.12",
+    "javascript-injector": "^0.7.1",
     "live-plugin-manager": "^0.20.0",
     "uuid": "^9.0.1"
   },
