@@ -11,7 +11,7 @@
     "@babel/core": "^7.24.5",
     "@babel/plugin-transform-modules-commonjs": "^7.24.1",
     "@voidvoxel/package-json": "^1.0.0",
-    "@voidvoxel/parse-function": "^0.4.1",
+    "@voidvoxel/parse-function": "^0.5.4",
     "glob": "^10.3.12",
     "javascript-injector": "^0.7.1",
     "live-plugin-manager": "^0.20.0",
